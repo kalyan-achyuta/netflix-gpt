@@ -4,8 +4,18 @@
  -> Delete unwanted stuff
  -> Configured Tailwind CSS
  -> Header
+ -> Routing
  -> Login Form
  -> Sign Up Form
+ -> Form Validation
+ -> UseRef Hook
+ -> Firebase Setup
+ -> Deploying our app to production
+ -> Create Sign Up User Account
+ -> Implemented Sign In User API
+ -> Created Redux Store with userSlice
+ -> Implemented Sign Out
+ -> Update Profile API
 
 # Features
 
