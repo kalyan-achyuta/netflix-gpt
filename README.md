@@ -3,6 +3,9 @@
  -> Create React App
  -> Delete unwanted stuff
  -> Configured Tailwind CSS
+ -> Header
+ -> Login Form
+ -> Sign Up Form
 
 # Features
 
